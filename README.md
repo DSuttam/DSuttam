@@ -101,9 +101,9 @@ Building intelligent, scalable, and secure digital experiences for the modern wo
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DSuttam&show_icons=true&theme=tokyonight" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSuttam&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
