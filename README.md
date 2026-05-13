@@ -1,101 +1,81 @@
-# Hi there 👋, I'm Uttam Kumar
+<h1 align="center">🚀 Hey, I'm Uttam Shukla</h1>
 
-💻 Full Stack Developer | 🤖 AI & Cybersecurity Enthusiast | 🚀 Building Secure & Scalable Applications
+<h3 align="center">
+💻 Full Stack Developer • 🤖 AI Engineer • 🔐 Cybersecurity Enthusiast
+</h3>
 
----
-
-## 🔹 About Me
-
-I am a passionate developer focused on **Full Stack Development, Artificial Intelligence, and Cybersecurity**.  
-I build modern, scalable, and secure digital solutions with clean architecture and real-world usability.
-
-Currently exploring:
-- Advanced Full Stack Applications
-- AI-Powered Systems
-- Cybersecurity & Secure Coding
-- Backend Architecture & System Design
-
-I enjoy solving real-world problems through technology and continuously improving my development and security skills.
+<p align="center">
+Building intelligent, scalable, and secure digital experiences for the modern world.
+</p>
 
 ---
 
-# 💻 What I Do
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🌐 Full Stack Development
-- Build responsive and scalable web applications
-- Develop REST APIs and authentication systems
-- Work with modern frontend and backend technologies
-- Create secure and production-ready applications
+## 🧠 About Me
 
-### Technologies
-- React.js / Next.js
-- Node.js / Express.js
-- MongoDB / MySQL
-- Tailwind CSS
-- JWT Authentication
-- REST APIs
+✨ Passionate about building modern **Full Stack Applications**, intelligent **AI Systems**, and secure digital infrastructures.  
+🔐 Focused on creating scalable architectures with strong security practices and clean development workflows.  
+🚀 Constantly learning, experimenting, and building real-world tech solutions.
 
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-- Build intelligent AI-driven applications
-- Work with NLP and Deep Learning models
-- Develop automation and prediction systems
-- Integrate AI features into web applications
-
-### AI/ML Stack
-- Python
-- TensorFlow
-- Scikit-learn
-- Pandas / NumPy
-- NLP
-- Keras
+### 🌱 Currently Exploring
+- Advanced Full Stack Architecture
+- AI Automation & Intelligent Systems
+- Cybersecurity & Ethical Security Practices
+- Backend Scalability & System Design
+- Cloud & DevOps Technologies
 
 ---
 
-## 🔐 Cybersecurity
-- Secure application architecture
-- Authentication & authorization systems
-- API security and secure coding practices
-- Linux-based security environments
+# ⚡ Tech Arsenal
+
+## 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp" />
+</p>
+
+## 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+## ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+## 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- 🧠 TensorFlow
+- 📊 Scikit-learn
+- 📈 Pandas & NumPy
+- 🗣 NLP & Deep Learning
+- ⚡ Keras
 
 ---
 
-# 🛠 Technologies & Tools
+# 🔐 Cybersecurity & DevOps
 
-## Languages
-- JavaScript
-- Python
-- C / C++
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,aws" />
+</p>
 
-## Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-
-## Backend & Database
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-
-## Tools & Platforms
-- Git & GitHub
-- Linux
-- Docker
-- Postman
-- VS Code
-- Google Colab
-- Jupyter Notebook
+- Secure Authentication Systems
+- API Security & JWT
+- Linux Environments
+- Docker Containerization
+- Git Version Control
+- Cloud Deployment
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🌐 Personal Portfolio
-Modern responsive portfolio showcasing:
+✨ Modern developer portfolio showcasing:
 - Full Stack Projects
 - AI Applications
 - Cybersecurity Work
@@ -103,43 +83,61 @@ Modern responsive portfolio showcasing:
 
 ---
 
-## 🤖 AI & Security Projects
-- AI Chatbot
-- Resume Screening System
-- Sentiment Analysis
-- Network Intrusion Detection
-- Intelligent Automation Tools
+## 🤖 AI Projects
+- Secure File Sharing System
+- AI-Based Fraud Detection
 
 ---
 
-## 💻 Web Development Projects
+## 💻 Full Stack Applications
 - Authentication Systems
-- REST API Applications
-- Dashboard Interfaces
-- Responsive Modern Websites
+- Real-Time Applications
+- REST API Platforms
+- Admin Dashboards
+- Responsive Web Apps
 
 ---
 
-# 📈 Current Goals
-- Master Full Stack Architecture
-- Build AI-powered products
-- Improve Cybersecurity expertise
-- Contribute to Open Source
-- Create scalable production systems
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 🌍 Connect With Me
 
-- LinkedIn
-- GitHub
-- Portfolio
-- Instagram
+<p align="left">
+<a href="https://www.linkedin.com/in/uttam-shukla-8ba728312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/DSuttam" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.instagram.com/ffwc_uttam_0710?igsh=eDh0b3hldHJkemc0" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# 🧩 Developer Mindset
 
-> "Code. Secure. Innovate. Repeat."
+```python
+while(alive):
+    code()
+    learn()
+    secure()
+    innovate()
+```
 
-🚀 Always building. Always learning.
+---
+
+<h3 align="center">
+⚡ "Code. Secure. Innovate. Repeat."
+</h3>
