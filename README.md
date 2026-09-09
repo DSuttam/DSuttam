@@ -25,7 +25,6 @@ Building intelligent, scalable, and secure digital experiences for the modern wo
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🧠 About Me
-
 ✨ Passionate about building modern **Full Stack Applications**, intelligent **AI Systems**, and secure digital infrastructures.  
 🔐 Focused on scalable architectures, clean code practices, and modern cybersecurity techniques.  
 🚀 Constantly learning, experimenting, and building impactful real-world projects.
